@@ -1,0 +1,8 @@
+[package]
+
+name = "uil-checker"
+version = "0.0.1"
+authors = ["Nemikolh <joan.varvenne@gmail.com>"]
+
+[dependencies.uil]
+git = "https://github.com/uil-lang/uil-rs"
