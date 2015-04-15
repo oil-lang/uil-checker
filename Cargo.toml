@@ -5,7 +5,8 @@ version = "0.0.1"
 authors = ["Nemikolh <joan.varvenne@gmail.com>"]
 
 [dependencies]
-uil = "*"
+uil_parsers = "*"
+uil_shared = "*"
 docopt = "*"
 docopt_macros = "*"
 rustc-serialize = "*"

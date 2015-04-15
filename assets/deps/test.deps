@@ -3,6 +3,7 @@ width = 800
 height = 600
 
 [main]
+foo = BarCtor("test")
 font = Font("../images/font-menus.png", 20, 30)
 background = Image(path: "../images/background-main.png")
 title.font = Font(
